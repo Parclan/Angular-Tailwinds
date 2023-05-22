@@ -1,10 +1,10 @@
-#Download Node Modules
-
-Download packages with this code "npm install"
-
 # AngularTailwinds
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+
+## Download Node Modules
+
+Download packages with this code `npm install`
 
 ## Development server
 
